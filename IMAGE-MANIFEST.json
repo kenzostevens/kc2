@@ -1,0 +1,41 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "hero-salon",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual website hero photograph, landscape 3:2.\nPrimary request: richly layered beauty salon-inspired interior, warm ivory travertine, medium oak and walnut, upholstered sand salon chairs, tall curved mirrors, deep shaded arches and recesses, slatted wood, sunlight and realistic shadows. A foreground dark warm stone ledge at the lower edge adds depth. Chairs are center and right; show the room and believable architecture. The left third is calmer for copy. Beautiful rich tonal photography with deep contrast, never flat all-beige. Inspired by a warm natural salon swatch board; an editorial imagined interior, not a documentary claim of actual premises.\nConstraints: no curtains, no people. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-302faaa8-67c7-45a3-8e97-47d1d2fa2bb7.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/hero-salon.png"
+    },
+    {
+      "name": "hair-editorial",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual beauty editorial website photograph, portrait 2:3.\nPrimary request: back and three-quarter view of an adult woman's glossy brunette hair, softly dimensional highlights and luxurious loose waves, shoulder crop in an ivory garment. Dark walnut salon background and warm directional light. Hair is the entire subject and fully in frame, with generous silhouette margins. Strong fashion and beauty editorial photograph.\nConstraints: no face needed, no fake brand marks. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-6d8b1859-b4fe-461f-8083-50b335083d02.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/hair-editorial.png"
+    },
+    {
+      "name": "nails-editorial",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual manicure editorial website photograph, portrait 2:3.\nPrimary request: elegant adult hands with immaculate almond nude and blush manicure, subtle micro French line and one tasteful pearl or chrome detail. Hands gracefully rest across a rounded dark warm stone block, with ivory linen and muted brown surroundings. Glossy controlled highlights and dramatic believable shadows. Anatomically plausible hands and fingers, careful realistic joints and nails.\nConstraints: no jewelry clutter. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-f93743dc-9456-4629-afbe-0ab9a1e3bb3e.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/nails-editorial.png"
+    },
+    {
+      "name": "spa-editorial",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual head-spa editorial website photograph, landscape 3:2.\nPrimary request: intimate professional Korean head-spa treatment atmosphere close-up. An adult woman's dark wet hair at a warm stone basin, two natural therapist hands attending the scalp, a graceful clear stream of water, an ivory towel. Dark walnut recess out of focus. Subject center and right, with some dark negative space at the left. Physically plausible water, hands, scalp and basin contact; deep warm shadows.\nConstraints: no identifiable face, no nudity, no medical claims. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-1c2d9cd9-7777-4132-901d-ae53df63ef2f.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/spa-editorial.png"
+    },
+    {
+      "name": "nails-wine",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual nail-gallery website photograph, portrait 2:3.\nPrimary request: one adult hand with beautifully glossy deep burgundy almond manicure, fingers gracefully curved against ivory linen and a dark walnut and rounded warm travertine edge. Medium-format editorial beauty photography. Whole fingers and nails are in frame, realistic anatomy, directional highlights and deep warm shadow.\nConstraints: no text, no logo, no UI, no brand. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-6159ec31-4a0e-47ba-8c6c-def4e9d48abe.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/nails-wine.png"
+    },
+    {
+      "name": "nails-art",
+      "prompt": "High-end beauty editorial photography, natural skin and material texture, softly directional warm daylight from the left, deep warm walnut shadows, ivory highlights, muted bronze and taupe, subtle pale blush. Medium-format photographic detail, realistic depth and contact shadows. No text, no logos, no watermark, no UI, no plastic CGI look.\nUse case: photorealistic-natural.\nAsset type: actual nail-gallery website photograph, portrait 2:3.\nPrimary request: adult hands with sophisticated pale blush almond manicure featuring very fine abstract brown lines and one subtle chrome accent. Graceful believable fingers resting on warm stone, dark walnut backdrop and soft directional light from the left. Restrained high-end nail artistry.\nConstraints: realistic hand anatomy; no logos, no text, no UI, no bright gaudy decor. Actual output photograph, not a website mockup.",
+      "source": "/Users/kenzoquiambao/.codex/generated_images/01a0a6f1-c682-7572-aa87-48951842a3b4/exec-423423d1-2cde-4a71-9dea-9bf5182ff998.png",
+      "saved": "/Users/kenzoquiambao/AIOS/universal-workspace-scratchpad/website-portfolio/kc-v2-image-work/nails-art.png"
+    }
+  ]
+}
